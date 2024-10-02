@@ -1,0 +1,1 @@
+I have create a gitconfig file to be able to manage both my github ids from the same computer using SSH. This is a test for that.
